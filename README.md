@@ -1,6 +1,7 @@
 ## Project
 A simple GUI app written in Python to compress, decompress and display BMP image
-The BMP image is compressed as IMG file, which is a custom file format that contains encoded BMP image data
+The BMP image is compressed as IMG file, which is a custom file format that contains encoded BMP image data.
+The main goal is to simulate the process of JPEG compression/decompression.
 ## Requirement
   1. Operating system: Linux(Ubuntu)
   2. Required packages and language: python3 and tkinter
